@@ -1,2 +1,28 @@
-# 5cb6b2c9-database-administration-standa
-database admin professionals waste hours on spending hours building a system before you can actually use it. This fixes that.  Pre-built databases, views, and formula fields — ready to duplicate and use. Fully documented: every section explained so you know exactly what to customize.  ## What's Included  - Database Administration Standard Operating
+# Database Administration Standard Operating Procedures Library Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/8x28wP7r14sc1de6fycZw24)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/8x28wP7r14sc1de6fycZw24)
+
